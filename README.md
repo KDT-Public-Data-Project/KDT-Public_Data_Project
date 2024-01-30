@@ -21,7 +21,7 @@
 <hr/>    
 ###### ++사용한 공공 데이터 사이트++        
 1. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)      
-<img src="https://kosis.kr/ext/newKosis/img/layout/logo.png" width=600, height=250>          
+<img src="https://kosis.kr/ext/newKosis/img/layout/logo.png" width=200, height=70>          
 <hr/>   
 
 
