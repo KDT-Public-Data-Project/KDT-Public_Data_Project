@@ -18,8 +18,9 @@
 
 
 ### KDT(Korea Digital Training)-Public_Data Project(공공데이터 활용, 시각화, 판다스)    
-<hr/>    
-###### 사용한 공공 데이터 사이트        
+<hr/> 
+
+#### 사용한 공공 데이터 사이트        
 1. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)      
 <img src="https://kosis.kr/ext/newKosis/img/layout/logo.png" width=200, height=70>          
 <hr/>   
