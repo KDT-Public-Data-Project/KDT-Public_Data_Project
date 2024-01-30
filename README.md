@@ -19,9 +19,9 @@
 
 ### KDT(Korea Digital Training)-Public_Data Project(공공데이터 활용, 시각화, 판다스)    
 <hr/>    
-###### ++사용한 공공 데이터 사이트++    
-1. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)    
-<img src="https://kosis.kr/ext/newKosis/img/layout/logo.png" width=600, height=250>         
+###### ++사용한 공공 데이터 사이트++        
+1. [KOSIS 국가통계포털](https://kosis.kr/index/index.do)      
+<img src="https://kosis.kr/ext/newKosis/img/layout/logo.png" width=600, height=250>          
 <hr/>   
 
 
@@ -37,6 +37,7 @@
 ###### 역할 분담
 
 |역할 | 참여인원|
+| ---- | -----|
 |주제선정 | 손예림, 명노아, 전진우, 이승민 |    
 |시장규모분석 | 손예림|   
 |투자규모분석 | 전진우|   
